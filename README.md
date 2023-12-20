@@ -1,6 +1,8 @@
 # Overview
 This repository redesigns the [RP2040 Macropad](https://learn.adafruit.com/adafruit-macropad-rp2040/overview) to be oriented at a 270 degrees (USB-C on the right).
 
+![rp2040 example](./images/rp2040_horizontal.jpg)
+
 Refer to `horizontal_macro_template.py` to creating any additional macros.
 
 # Features
